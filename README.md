@@ -16,7 +16,8 @@ To design and develop UML diagrams for a Library Management System using StarUML
 
 # DIAGRAMS:
 ## 1. USE CASE DIAGRAM
-<img width="1082" height="672" alt="LIB Use Case" src="https://github.com/user-attachments/assets/c219d96f-9639-4b5f-9985-7c571c943248" />
+<img width="679" height="729" alt="Screenshot 2026-10-30 083501" src="https://github.com/user-attachments/assets/ca6879ef-fc11-49bd-9dc6-eb92e81aa80e" />
+
 
 ## 2. CLASS DIAGRAM
 <img width="1007" height="662" alt="LIB Class" src="https://github.com/user-attachments/assets/1459edc2-a603-4b5c-bd89-9cd7c422bebd" />
